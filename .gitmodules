@@ -1,0 +1,6 @@
+[submodule "submodules/git-bookmarks-utilities"]
+	path = submodules/git-bookmarks-utilities
+	url = https://github.com/PierceLBrooks/git-bookmarks-utilities.git
+[submodule "submodules/git-bookmarks"]
+	path = submodules/git-bookmarks
+	url = https://github.com/PierceLBrooks/git-bookmarks.git
